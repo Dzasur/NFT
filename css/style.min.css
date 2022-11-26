@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oxanium:wght@500;600;700family=Work+Sans:wght@400;500;600;700&display=swap");
 * {
   padding: 0;
   margin: 0;
@@ -110,7 +110,7 @@ html, body {
 }
 
 .title {
-  font-family: "Oxanium", cursive;
+  font-family: "Oxanium";
   text-align: center;
   font-weight: 700;
   font-size: 64px;
@@ -1189,7 +1189,7 @@ button.swiper-pagination-bullet {
 }
 
 .hero {
-  background-image: url(/img/blur.png);
+  background-image: url(../img/blur.png);
   background-size: 100% 100%;
   background-repeat: no-repeat;
 }
@@ -1302,7 +1302,7 @@ button.swiper-pagination-bullet {
   }
 }
 .hero__image {
-  background-image: url(/img/confity.jpg);
+  background-image: url(../img/confity.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -1507,7 +1507,7 @@ button.swiper-pagination-bullet {
 
 .auction {
   background: linear-gradient(336.61deg, #251928 16.25%, rgba(37, 25, 40, 0) 91.6%);
-  background-image: url(/img/auctions-blur.png);
+  background-image: url(../img/auctions-blur.png);
   background-repeat: no-repeat;
   background-position: 0 -100px;
 }
@@ -1675,7 +1675,7 @@ button.swiper-pagination-bullet {
 }
 
 .work {
-  background-image: url(/img/work-blur.png);
+  background-image: url(../img/work-blur.png);
   background-repeat: no-repeat;
   background-position: 55% -50px;
   background-size: contain;
@@ -1728,7 +1728,7 @@ button.swiper-pagination-bullet {
   top: 50%;
   right: -55px;
   transform: translateY(-50%) translateX(100%);
-  background-image: url(/img/work5.png);
+  background-image: url(../img/work5.png);
   background-size: contain;
   background-repeat: no-repeat;
   width: 173px;
@@ -1872,7 +1872,7 @@ button.swiper-pagination-bullet {
 .categories {
   padding-top: 80px;
   background: #251928;
-  background-image: url(/img/cate-blur.png);
+  background-image: url(../img/cate-blur.png);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: 0 -150px;
@@ -2029,7 +2029,7 @@ button.swiper-pagination-bullet {
 }
 
 .subscribe {
-  background-image: url(/img/drop.png);
+  background-image: url(../img/drop.png);
   position: relative;
   padding: 100px 0;
 }
@@ -2040,7 +2040,7 @@ button.swiper-pagination-bullet {
   right: 10%;
   width: 600px;
   height: 500px;
-  background-image: url(/img/drop-blur.png);
+  background-image: url(../img/drop-blur.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -2125,7 +2125,7 @@ button.swiper-pagination-bullet {
   }
 }
 .collection {
-  background-image: url(/img/coll-blur.png);
+  background-image: url(../img/coll-blur.png);
   background-repeat: no-repeat;
   background-position: 15% -100px;
   background-size: contain;
